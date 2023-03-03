@@ -19,6 +19,9 @@ This is a repo for collecting papers related to scRNA-seq and spatial transcript
 [2022-Theranostics-Spatial maps of hepatocellular carcinoma transcriptomes reveal spatial expression patterns in tumor immune microenvironment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9169356/)    
 [2021-Cancer Science-The spatial distribution of immune cell subpopulations in hepatocellular carcinoma](https://onlinelibrary.wiley.com/doi/10.1111/cas.15202)
 
+## TLS
+[2022-Immunity-Tertiary lymphoid structures generate and propagate anti-tumor antibody-producing plasma cells in renal cell cancer](https://www.sciencedirect.com/science/article/pii/S1074761322000814?ref=pdf_download&fr=RR-2&rr=7a212349bfe50428)
+
 ## Tools
 
 
