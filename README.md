@@ -13,6 +13,10 @@ This is a repo for collecting papers related to scRNA-seq and spatial transcript
 -----
 
 # Spatial Transcriptomics
+
+[2022-Nature Methods-Museum of spatial transcriptomics](https://www.nature.com/articles/s41592-022-01409-2#change-history)  
+https://pachterlab.github.io/LP_2021/index.html
+
 ## Atlas
 [2021-Nature Genetics-A single-cell and spatially resolved atlas of human breast cancers](https://www.nature.com/articles/s41588-021-00911-1)
 
