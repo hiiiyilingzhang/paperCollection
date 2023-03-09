@@ -31,7 +31,8 @@ https://pachterlab.github.io/LP_2021/index.html
 [2022-Immunity-Tertiary lymphoid structures generate and propagate anti-tumor antibody-producing plasma cells in renal cell cancer](https://www.sciencedirect.com/science/article/pii/S1074761322000814?ref=pdf_download&fr=RR-2&rr=7a212349bfe50428)
 
 ## TME
-[2023-Nat Commu-Dissecting the immune suppressive human prostate tumor microenvironment via integrated single-cell and spatial transcriptomic analyses](https://www.nature.com/articles/s41467-023-36325-2)
+[2023-Nat Commu-Dissecting the immune suppressive human prostate tumor microenvironment via integrated single-cell and spatial transcriptomic analyses](https://www.nature.com/articles/s41467-023-36325-2)  
+[Review-2023-Cancer cell-Spatial profiling technologies illuminate the tumor microenvironment](https://www.cell.com/cancer-cell/pdf/S1535-6108(23)00010-7.pdf)
 
 ## Tools
 [2022-Nat Biotechnol-Spatially informed cell-type deconvolution for spatial transcriptomics](https://www.nature.com/articles/s41587-022-01273-7)  
