@@ -36,7 +36,11 @@ https://pachterlab.github.io/LP_2021/index.html
 
 ## Tools
 [2022-Nat Biotechnol-Spatially informed cell-type deconvolution for spatial transcriptomics](https://www.nature.com/articles/s41587-022-01273-7)  
-[2022-Nat Biotechnol-Cell2location maps fine-grained cell types in spatial transcriptomics](https://www.nature.com/articles/s41587-021-01139-4)  
+[2022-Nat Biotechnol-Cell2location maps fine-grained cell types in spatial transcriptomics](https://www.nature.com/articles/s41587-021-01139-4)   
+[2022-Nat Commu-Estimation of cell lineages in tumors from spatial transcriptomics data](https://www.nature.com/articles/s41467-023-36062-6)  
+[2023-Nat Biotechnol-High-resolution alignment of single-cell and spatial transcriptomes with CytoSPACE](https://www.nature.com/articles/s41587-023-01697-9)  
+[2022-Nat Methods-A statistical method to uncover gene expression changes in spatial transcriptomics](https://www.nature.com/articles/s41592-022-01576-2)  
+
 
 ## Review & perspective
 [2022-Cancer Cell-Voices: Spatial transcriptomics](https://www.cell.com/cancer-cell/pdf/S1535-6108(22)00385-3.pdf)  
