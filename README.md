@@ -40,6 +40,7 @@ https://pachterlab.github.io/LP_2021/index.html
 [2022-Nat Commu-Estimation of cell lineages in tumors from spatial transcriptomics data](https://www.nature.com/articles/s41467-023-36062-6)  
 [2023-Nat Biotechnol-High-resolution alignment of single-cell and spatial transcriptomes with CytoSPACE](https://www.nature.com/articles/s41587-023-01697-9)  
 [2022-Nat Methods-A statistical method to uncover gene expression changes in spatial transcriptomics](https://www.nature.com/articles/s41592-022-01576-2)  
+[2023-Nat Biotechnol-TACCO unifies annotation transfer and decomposition of cell identities for single-cell and spatial omics](https://www.nature.com/articles/s41587-023-01657-3)  
 
 
 ## Review & perspective
